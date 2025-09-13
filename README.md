@@ -2,7 +2,7 @@
 
  ![topo](topo.png)
 
-Blank Configuration MikroTik memiliki IP Address 0.0.0.0. Blank configuration MikroTik merupakan MikroTik yang belum dikonfigurasi sama sekali, atau masih kosong konfigurasi nya.
+MikroTik Blank Configuration memiliki IP Address 0.0.0.0. MikroTik Blank configuration merupakan MikroTik yang belum dikonfigurasi sama sekali, atau masih kosong konfigurasi nya.
 
 Saat pertama kali menggunakan MikroTik baru atau setelah MikroTik dilakukan reset configuration,  akses via winbox akan menampilkan keterangan konfigurasi default dari pabrik. Jika ingin mengosongkan konfigurasi (Blank Configuration), maka pilih opsi Remove Configuration
 
