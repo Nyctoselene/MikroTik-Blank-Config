@@ -10,7 +10,7 @@
 
  Ketika MikroTik sudah di konfigurasi, dan kita mau menggunakan Blank Configuration, maka lakukan Reset Configuration, dengan menceklis No Default Configuration
  
-![No Default](Noo%20Default.png)
+![No Default](No%20Default.png)
 
 Berikut ini beberapa parameter yang ada pada blank configuration:\
  ⦁	Dapat di remote menggunakan winbox dari port ethernet manapun, dan muncul IP Address 0.0.0.0
