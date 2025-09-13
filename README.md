@@ -6,7 +6,7 @@
 
  Saat pertama kali menggunakan MikroTik baru atau setelah MikroTik dilakukan reset configuration,  akses via winbox akan menampilkan keterangan konfigurasi default dari pabrik. Jika ingin mengosongkan konfigurasi (Blank Configuration), maka pilih opsi Remove Configuration
 
-![Default Config](Default%20Config.jpeg) 
+![Default Config](Default%20Config.png) 
 
  Ketika MikroTik sudah di konfigurasi, dan kita mau menggunakan Blank Configuration, maka lakukan Reset Configuration, dengan menceklis No Default Configuration
  
