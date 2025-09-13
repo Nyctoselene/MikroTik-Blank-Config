@@ -1,6 +1,6 @@
 # MikroTik-Blank-Config
 
-![topo](topo.png)
+![Topo](Topo.png)
 
  MikroTik Blank Configuration memiliki IP Address 0.0.0.0. MikroTik Blank configuration merupakan MikroTik yang belum dikonfigurasi sama sekali, atau masih kosong konfigurasi nya.
 
