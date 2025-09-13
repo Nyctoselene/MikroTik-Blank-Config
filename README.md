@@ -25,7 +25,7 @@ Berikut ini beberapa parameter yang ada pada blank configuration:\
 
 ![Firewall](Firewall.png)
 
-# Kesimpulan : 
+# Kesimpulan
  Blank Configuration pada MikroTik sangat cocok digunakan untuk pengguna yang ingin belajar konfigurasi MikroTik dari awal. Dengan Blank Configuration user dapat melakukan akses dari ether1.
 
 Sekian yang dapat saya sampaikan, mohon maaf apabila ada salah kata atau kekurangan dalam penyampaian. Akhir kata, Wassalam
